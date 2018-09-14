@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = new TextView(this);
         textView.setText("Android Eyuu");
         textView.setTextColor(Color.CYAN);
-        textView.setTextSize(20);
+        textView.setTextSize(21);
         textView.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
         setContentView(textView);
 
